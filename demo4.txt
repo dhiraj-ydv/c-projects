@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+main()
+{
+    //-> Positive data type
+    int i=2;
+    int j=3;
+    int k=i+j;
+    printf("The addition of 2 and 3 is %d",k);
+}

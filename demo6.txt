@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main() // return type
+{
+    //-> Positive data type
+    int i=4;
+    int j=3;
+    int k=i+j;
+    printf("The addition of %d and %d is %d",i,j,k); //Print Format
+
+    return 1;
+}

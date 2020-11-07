@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main()
+{
+
+    int i=1;
+    int j;
+
+    j = i++; //Post Increament
+
+    printf("%d %d\n",j,i); // Pre Increament
+
+    return 0;
+}
